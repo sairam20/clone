@@ -9,6 +9,7 @@ public class MainClass {
     if(c.getA()==c.getB())
     {
     	System.out.println("Both are same");
+    	System.out.println("Terminated");
     }
     else
     {
